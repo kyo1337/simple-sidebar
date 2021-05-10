@@ -5,7 +5,7 @@ A toggleable, simple sidebar template for Bootstrap 4 featuring a responsive sid
 # Information
 
 Release : Sep 28, 2013 <br>
-Product Version : 5.1.3
+Product Version : 5.1.3 <br>
 Bootstrap Version : 4.5.3
 
 # ScreenShot Simple Sidebar
